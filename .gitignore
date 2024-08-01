@@ -1,0 +1,6 @@
+__*
+input/*
+output/*
+snapshots/*batch*.pth
+train_data/train/*
+.idea
